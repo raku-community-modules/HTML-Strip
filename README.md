@@ -44,16 +44,16 @@ Set this to false if you do not want this.
 AUTHORS
 =======
 
-  * Dagur Valberg Johannsson.
+  * Dagur Valberg Johannsson
 
   * Raku Community
 
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2013 - 2017 =item Dagur Valberg Johannsson.
+Copyright 2013 - 2017 Dagur Valberg Johannsson.
 
-Copyright 2024 Raku Commuity
+Copyright 2024 - 2025 Raku Community
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 

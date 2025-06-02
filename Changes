@@ -1,6 +1,8 @@
 Revision history for HTML::Strip
 
 {{$NEXT}}
+    - Fix some doc issues
+    - Update copyright year
 
 0.1.2  2024-09-14T21:29:20+02:00
     - Initial version in the zef ecosystem
