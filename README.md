@@ -11,7 +11,7 @@ SYNOPSIS
 ```raku
 use HTML::Strip;
 my $html = q{<body>my <a href="http://">raku module</a></body>};
-my $clean = html_strip($html);
+my $clean = strip_html($html);
 # $clean: my raku module
 ```
 
